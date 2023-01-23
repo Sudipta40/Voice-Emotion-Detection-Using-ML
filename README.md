@@ -21,7 +21,7 @@ dataset link : https://paperswithcode.com/dataset/ravdess
 4.Toronto emotional speech set (Tess) 
 
 # Fist of all the Load dataset
-https://github.com/Sudipta40/Voice-Emotion-Detection-Using-ML/issues/1#issue-1552934750
+![data preparation](https://user-images.githubusercontent.com/123369839/214028404-6cff41b9-1847-426b-8d05-c6de4cdac778.jpg)
 
 # Visualizetion
 ![Data_visualization_s](https://user-images.githubusercontent.com/123153920/213759835-3f4a2422-fecb-4afc-b95a-106a8808f9aa.png)
